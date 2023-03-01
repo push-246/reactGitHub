@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+}
+ul{
+    display: flex;
+    gap:30px;
+    list-style: none;
+}
