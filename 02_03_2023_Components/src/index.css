@@ -1,0 +1,13 @@
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100px;
+    /* background-color: red;; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input:active{
+    outline: none;
+}
