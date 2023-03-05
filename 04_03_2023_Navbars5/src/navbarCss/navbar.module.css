@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(50, 105, 175);
+}
+nav,button,input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav ul li{
+    list-style-type: none;
+    color: white;
+    padding: 10px 10px;
+    margin:auto 20px;
+    font-size: 15px;
+}
+
+nav ul li img{
+    width: 80px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li input{
+    border: none;
+    padding: 10px 10px;
+    width: 300px;
+    outline: none;
+    font-weight: 300;
+    font-size: 15px;
+    
+}
+.link{
+    font-size: 12px;
+    line-break: 0;
+}
+nav ul li button{
+    color: rgb(50, 105, 175);
+    background-color: white;
+    border: none;
+    padding: 10px 10px;
+    font-size: 15px;
+}
+
+.login{
+    padding: 5px 20px;
+}
+.icon{
+    font-size: 15px;
+    font-weight: 600;
+}
