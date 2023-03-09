@@ -1,0 +1,285 @@
+[
+    {   "movieName":"Harry Potter and the Philosopher's Stone ",
+        "releaseDate":"04/12/2002",
+        "category":[" Adventure", "Fantasy"],
+        "duration":"2h 32m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "trailer":"https://www.youtube.com/watch?v=Q61YhARNOPg"
+    },{
+        "movieName":"Harry Potter and the Half-Blood Prince",
+        "releaseDate":"07/07/2009",
+        "category":["Adventure", "Fantasy"],
+        "duration":"2h 33m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+        "trailer":"https://youtu.be/JYLdTuL9Wjw"
+    },{
+        "movieName":"Harry Potter and the Prisoner of Azkaban ",
+        "releaseDate":"06/04/2004",
+        "category":["Adventure", "Fantasy"],
+        "duration":"2h 21m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "trailer":"https://youtu.be/R69laoH02xg"
+    },
+    {
+        "movieName":"Harry Potter and the Deathly Hallows: Part 2",
+        "releaseDate":"07/07/2011",
+        "category":["Adventure", "Fantasy"],
+        "duration":"2h 10m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "trailer":"https://youtu.be/5NYt1qirBWg"
+    },{
+        "movieName":"Harry Potter and the Goblet of Fire",
+        "releaseDate":"11/18/2005",
+        "category":["Adventure", "Fantasy","Family"],
+        "duration":"2h 37m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+        "trailer":"https://youtu.be/7lJ6Suyp1ok"
+    },{
+        "movieName":"Harry Potter and the Order of the Phoenix",
+        "releaseDate":"07/03/2007",
+        "category":["Adventure", "Fantasy","Mystery"],
+        "duration":"2h 18m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+        "trailer":"https://youtu.be/WIj9DYJ5EKk"
+    },{
+        "movieName":"Harry Potter and the Deathly Hallows: Part 1",
+        "releaseDate":"11/19/2010",
+        "category":["Adventure", "Fantasy"],
+        "duration":"2h 26m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "trailer":"https://youtu.be/Su1LOpjvdZ4"
+    },{
+        "movieName":"A Dog's Purpose",
+        "releaseDate":"01/27/2017",
+        "category":["Adventure", "Comedy", "Fantasy", "Family", "Drama"],
+        "duration":"1h 40m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+        "trailer":"https://youtu.be/1jLOOCADTGs"
+    },{
+        "movieName":"Stuart Little",
+        "releaseDate":"12/17/1999",
+        "category":["Family", "Fantasy", "Comedy", "Adventure"],
+        "duration":"1h 24m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niZSfupE9XR7GmEUq2XdURVH66T.jpg",
+        "trailer":"https://youtu.be/Wlo-sYrADlw"
+    },{
+        "movieName":"Stuart Little 2",
+        "releaseDate":"07/19/2002",
+        "category":["Family", "Adventure", "Animation", "Comedy"],
+        "duration":"1h 18m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg",
+        "trailer":"https://youtu.be/k--OdtbKyqE"
+    },{
+        "movieName":"The Legend of Tarzan",
+        "releaseDate":"07/01/2016",
+        "category":["Fantasy", "Action", "Adventure"],
+        "duration":"1h 49m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+        "trailer":"https://youtu.be/Aj7ty6sViiU"
+    },{
+        "movieName":"Tarzan II",
+        "releaseDate":"06/13/2005",
+        "category":["Adventure", "Animation", "Family"],
+        "duration":"1h 12m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg",
+        "trailer":"https://youtu.be/Fminm0hZ-eM"
+    },{
+        "movieName":"Tarzan",
+        "releaseDate":"06/18/1999",
+        "category":["Animation", "Drama", "Adventure", "Family"],
+        "duration":"1h 28m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ceGk1VcuI8pSXQhSlnqsqTFCPLD.jpg",
+        "trailer":"https://youtu.be/JYOMf4SS2oA"
+    },{
+        "movieName":"Cinderella",
+        "releaseDate":"02/22/1950",
+        "category":["Family", "Fantasy", "Animation", "Romance"],
+        "duration":"1h 14m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/avz6S9HYWs4O8Oe4PenBFNX4uDi.jpg",
+        "trailer":"https://youtu.be/iutahZ2DnLQ"
+    },{
+        "movieName":"Cinderella",
+        "releaseDate":"03/13/2015",
+        "category":["Romance", "Fantasy", "Family", "Drama"],
+        "duration":"1h 45m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg",
+        "trailer":"https://youtu.be/sYPXeNzpDJE"
+    },{
+        "movieName":"Snow White and the Seven Dwarfs",
+        "releaseDate":"02/10/1965",
+        "category":["Fantasy", "Animation", "Family"],
+        "duration":"1h 23m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QKUh9UuIIT2ZA9Rby9R6vtNRKa.jpg",
+        "trailer":"https://youtu.be/kLfNrd3dUc8"
+    },{
+        "movieName":"Snow White and the Huntsman",
+        "releaseDate":"06/01/2012",
+        "category":["Adventure", "Fantasy", "Drama"],
+        "duration":"2h 7m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yKdQHaqOo1lkaErmqMuYFespYI.jpg",
+        "trailer":"https://youtu.be/F9cBVm9gtKU"
+    },{
+        "movieName":"Avengers: Infinity War",
+        "releaseDate":"04/27/2018",
+        "category":["Adventure", "Action", "Science Fiction"],
+        "duration":"2h 29m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "trailer":"https://youtu.be/QwievZ1Tx-8"
+    },{
+        "movieName":"The Avengers",
+        "releaseDate":"04/27/2012",
+        "category":["Science Fiction", "Action", "Adventure"],
+        "duration":"2h 23m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "trailer":"https://youtu.be/eOrNdBpGMv8"
+    },{
+        "movieName":"Avengers: Endgame",
+        "releaseDate":"04/26/2019",
+        "category":["Adventure", "Science Fiction", "Action"],
+        "duration":"3h 1m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "trailer":"https://youtu.be/TcMBFSGVi1c"
+    },{
+        "movieName":"Avengers: Age of Ultron",
+        "releaseDate":"04/24/2015",
+        "category":["Action", "Adventure", "Science Fiction"],
+        "duration":"2h 21m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "trailer":"https://youtu.be/JAUoeqvedMo"
+    },{
+        "movieName":"Pirates of the Caribbean: The Curse of the Black Pearl",
+        "releaseDate":"08/15/2003",
+        "category":["Adventure", "Fantasy", "Action"],
+        "duration":"2h 23m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+        "trailer":"https://youtu.be/naQr0uTrH_s"
+    },{
+        "movieName":"Pirates of the Caribbean: On Stranger Tides",
+        "releaseDate":"05/20/2011",
+        "category":["Adventure", "Action", "Fantasy"],
+        "duration":"2h 17m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+        "trailer":"https://www.youtube.com/watch?v=t5AqJww06bw"
+    },{
+        "movieName":"Pirates of the Caribbean: At World's End",
+        "releaseDate":"05/19/2007",
+        "category":["Adventure", "Fantasy", "Action"],
+        "duration":"2h 49m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+        "trailer":"https://youtu.be/HKSZtp_OGHY"
+    },{
+        "movieId":25,
+        "movieName":"Pirates of the Caribbean: Dead Man's Chest",
+        "releaseDate":"07/07/2006",
+        "category":["Adventure", "Fantasy", "Action"],
+        "duration":"2h 31m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "trailer":"https://youtu.be/elqO-GNfStM"
+    },{
+        "movieName":"Pirates of the Caribbean: Dead Men Tell No Tales",
+        "releaseDate":"05/26/2017",
+        "category":["Adventure", "Action", "Fantasy"],
+        "duration":"2h 8m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",
+        "trailer":"https://youtu.be/Hgeu5rhoxxY"
+    },{
+        "movieName":"Sherlock Holmes: A Game of Shadows",
+        "releaseDate":"12/16/2011",
+        "category":["Adventure", "Action", "Crime", "Mystery"],
+        "duration":"2h 9m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+        "trailer":"https://youtu.be/9FozQnaEZl8"
+    },{
+        "movieName":"The Hunger Games: Mockingjay - Part 1",
+        "releaseDate":"11/21/2014",
+        "category":["Science Fiction", "Adventure", "Thriller"],
+        "duration":"2h 3m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+        "trailer":"https://youtu.be/IXshQ5mv1K8"
+    },{
+        "movieName":"The Hunger Games: Catching Fire",
+        "releaseDate":"12/06/2013",
+        "category":["Adventure", "Action", "Science Fiction"],
+        "duration":"2h 26m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLOTc1DEMJseC2rGCk88Bjggg06.jpg",
+        "trailer":"https://youtu.be/zoKj7TdJk98"
+    },{
+        "movieId":30,
+        "movieName":"The Hunger Games: Mockingjay - Part 2",
+        "releaseDate":"11/20/2015",
+        "category":["Action", "Adventure", "Science Fiction"],
+        "duration":"2h 17m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cSPnaqpXHG0FLRNErfcYLY3fpul.jpg",
+        "trailer":"https://youtu.be/SoKIqLEGhI0"
+    },{
+        "movieName":"The Hunger Games",
+        "releaseDate":"03/23/2012",
+        "category":["Science Fiction", "Adventure", "Fantasy"],
+        "duration":"2h 22m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AgTevvZqJzljoArGRIol9iZ0IoI.jpg",
+        "trailer":"https://youtu.be/sd6lb0fPl7g"
+    },{
+        "movieName":"Twilight ",
+        "releaseDate":"11/21/2008",
+        "category":["Fantasy", "Drama", "Romance"],
+        "duration":"2h 2m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/60IEwC4FaHSRpVEAM6iNpXZ5oSA.jpg",
+        "trailer":"https://youtu.be/uxjNDE2fMjI"
+    },{
+        "movieName":"The Twilight Saga: New Moon",
+        "releaseDate":"11/20/2009 ",
+        "category":["Adventure", "Fantasy", "Drama", "Romance"],
+        "duration":"2h 11m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rS9EIrjEoqBibt6MabmeeUEgzl4.jpg",
+        "trailer":"https://youtu.be/BNi-ebCWXos"
+    },{
+        "movieName":"The Twilight Saga: Eclipse",
+        "releaseDate":"06/23/2010",
+        "category":["Adventure", "Fantasy", "Drama", "Romance"],
+        "duration":"2h 4m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oEPqxXJraR8FVVzDcOP6bdPkPJn.jpg",
+        "trailer":"https://youtu.be/hZxJzhIPTTg"
+    },{
+        "movieName":"The Twilight Saga: Breaking Dawn - Part 1",
+        "releaseDate":"11/17/2011",
+        "category":["Adventure", "Fantasy", "Romance"],
+        "duration":"1h 57m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DtSIcdPLiyHnB4rTTzj9aqocT8.jpg",
+        "trailer":"https://youtu.be/PQNLfo-SOR4"
+    },{
+        "movieName":"The Twilight Saga: Breaking Dawn - Part 2",
+        "releaseDate":"11/16/2012",
+        "category":["Adventure", "Fantasy", "Drama", "Romance"],
+        "duration":"1h 55m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wxnr8AlxEw3ECgTvonNE6Qn2TYb.jpg",
+        "trailer":"https://youtu.be/bUXjqQ4GKRg"
+    },{
+        "movieName":"Your Name.",
+        "releaseDate":"04/18/2018",
+        "category":["Romance", "Animation", "Drama"],
+        "duration":"1h 46m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "trailer":"https://youtu.be/xU47nhruN-Q"
+    },{
+        "movieName":"Spirited Away",
+        "releaseDate":"07/20/2001",
+        "category":["Animation", "Family", "Fantasy"],
+        "duration":"2h 5m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/61I4u8VY9OrxKr8wKrte7ZZAB1D.jpg",
+        "trailer":"https://youtu.be/ByXuk9QqQkk"
+    },{
+        "movieName":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "releaseDate":"08/13/2021",
+        "category":["Animation", "Action", "Adventure", "Fantasy", "Thriller"],
+        "duration":"1h 57m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkSBAJDwIVjSubaF0l94rKRQob5.jpg",
+        "trailer":"https://youtu.be/23riEOmDOgM"
+    },{
+        "movieName":"Ratatouille",
+        "releaseDate":"06/29/2007",
+        "category":["Animation", "Comedy", "Family", "Fantasy"],
+        "duration":"1h 51m",
+        "moviePoster":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+        "trailer":"https://youtu.be/NgsQ8mVkN8w"
+    }
+]
