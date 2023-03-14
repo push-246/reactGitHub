@@ -1,0 +1,72 @@
+[
+    {   
+        "stdImg":"https://www.heart.org/-/media/Images/Health-Topics/Heart-Failure/toddler-girl-outdoors.jpg",
+        "stdName":"Purnima",
+        "stdClass":"4",
+        "stdSec":"B",
+        "stdEmailId":"purnima@gmail.com",
+        "stdAddress":"#33, 5th Main ,whynagar,Blore-560007",
+        "stdParentDetails":{
+            "fatherName":"Shiva",
+            "motherName":"Parvathi",
+            "fatherPhNo":"777777777",
+            "motherPhNo":"666666666",
+            "fatherWorkNo":"555555555",
+            "motherWorkNo": "444444444"
+        },
+        "stdActivities":["running","painting","singing"]
+
+    },
+    {
+        "stdImg":"https://images.pexels.com/photos/1231215/pexels-photo-1231215.jpeg?cs=srgb&dl=pexels-sharefaith-1231215.jpg&fm=jpg",
+        "stdName":"Santoshi",
+        "stdClass":"4",
+        "stdSec":"A",
+        "stdEmailId":"santhoshi@gmail.com",
+        "stdAddress":"#77, 7th Main ,whynagar,Blore-560007",
+        "stdParentDetails":{
+            "fatherName":"Krishna",
+            "motherName":"Radha",
+            "fatherPhNo":"777777777",
+            "motherPhNo":"666666666",
+            "fatherWorkNo":"555555555",
+            "motherWorkNo": "444444444"
+        },
+        "stdActivities":["long jump","drawing","dancing"]
+
+    },
+    {
+        "stdImg":"https://www.humanium.org/en/wp-content/uploads/2017/02/shutterstock_102463487web.jpg",
+        "stdName":"Aryan",
+        "stdClass":"4",
+        "stdSec":"C",
+        "stdEmailId":"aryan@gmail.com",
+        "stdAddress":"#8, 6th Main ,whynagar,Blore-560007",
+        "stdParentDetails":{
+            "fatherName":"Shah Rukh Khan",
+            "motherName":"Geetha",
+            "fatherPhNo":"777777777",
+            "motherPhNo":"666666666",
+            "fatherWorkNo":"555555555",
+            "motherWorkNo": "444444444"
+        },
+        "stdActivities":["Acting","drama"]
+    },
+    {
+        "stdImg":"https://images.pexels.com/photos/35537/child-children-girl-happy.jpg",
+        "stdName":"Suman",
+        "stdClass":"4",
+        "stdSec":"C",
+        "stdEmailId":"sahana@gmail.com",
+        "stdAddress":"#8, 6th Main ,whynagar,Blore-560007",
+        "stdParentDetails":{
+            "fatherName":"Yash",
+            "motherName":"Megha",
+            "fatherPhNo":"777777777",
+            "motherPhNo":"666666666",
+            "fatherWorkNo":"555555555",
+            "motherWorkNo": ""
+        },
+        "stdActivities":["BasketBall","Origami"]
+    }
+]
